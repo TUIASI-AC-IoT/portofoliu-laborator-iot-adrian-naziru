@@ -1,0 +1,8 @@
+What is the purpose of the gpio config function?
+
+• In the example code, GPIO4 is configured as an output. What other modes can
+a GPIO pin be configured in?
+
+• Explain the vTaskDelay function call.
+
+• Why is the main function called app main?
